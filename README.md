@@ -2,6 +2,7 @@
 We try to contribute to the problem of cancer diagnosis today.
 This problem is a multi-class classification problem. There are 9 classes that have to be predicted here. 
 There are 4 features here namely: ID, Gene, Variation, text and the feature we're predicting on is the class
+
 THE PROBLEM OVERVIEW WE ARE TRYING TO SOLVE:
 Once sequenced, a cancer tumor can have thousands of genetic mutations. Mutations are the onces which can corroupt the genes which cause cancer. Note. Not all mutations are cancer causing. SO based on these genes and mutations(or variations), they can be classified into 9 different categories. Some of these classes correspond to some forms of cancer.
 So in the real world rite now, a domain expert or a medical professional selects one of these genes and it's variation and picks up the literature on it. After giving a huge amount of man hours to this literature, they are able to classify these gene+variation into one of these 9 classes.
